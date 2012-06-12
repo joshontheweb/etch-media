@@ -1,0 +1,1 @@
+This is a add-on for etch.js that gives you a way to search/browse third-party images.  You need to supply your own backend api for this use.  Documentation is needed before this is going to be very useful, but I've been getting requests for this code, so here it is.  Hopefully I can find time to set up some examples of the backend integration later.
